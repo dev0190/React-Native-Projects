@@ -1,5 +1,3 @@
-// Project:3 - Password Generation
-// Yup Validation Schmea: npm i yup - used to validation
 
 import {
   SafeAreaView,
