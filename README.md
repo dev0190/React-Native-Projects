@@ -1,5 +1,5 @@
 <<<<<<< HEAD
-# React-Native-Cards
+# React-Native-Projects
 =======
 This is a new [**React Native**](https://reactnative.dev) project, bootstrapped using [`@react-native-community/cli`](https://github.com/react-native-community/cli).
 
@@ -28,21 +28,21 @@ Let Metro Bundler run in its _own_ terminal. Open a _new_ terminal from the _roo
 ### For Android
 
 ```bash
-# using npm
-npm run android
+# using npx
+npx react-native run-android
 
 # OR using Yarn
-yarn android
+yarn react-native run-android
 ```
 
 ### For iOS
 
 ```bash
-# using npm
-npm run ios
+# using npx
+npm\x react-native run-ios
 
 # OR using Yarn
-yarn ios
+yarn react-native run-ios
 ```
 
 If everything is set up _correctly_, you should see your new app running in your _Android Emulator_ or _iOS Simulator_ shortly provided you have set up your emulator/simulator correctly.
