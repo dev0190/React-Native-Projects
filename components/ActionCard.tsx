@@ -1,8 +1,3 @@
-// Topics Learn in this :
-// Linking
-// Touchable Opacity
-// anAction card creation.
-// No.of Lines
 import {
   Image,
   Linking,
