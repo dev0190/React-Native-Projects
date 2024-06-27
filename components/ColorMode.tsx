@@ -2,7 +2,7 @@ import { StatusBar, StyleSheet, Text, TouchableOpacity, View } from 'react-nativ
 import React, { useState } from 'react'
 
 export default function ColorMode() {
-    const [randomBg,setRandomBg] = useState('#ffffff'); // we use any values,methods,functions etc in useState.
+    const [randomBg,setRandomBg] = useState('#ffffff');
 
     // function to generate color 
     const generateColor =() =>{
