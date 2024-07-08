@@ -87,7 +87,6 @@ const styles = StyleSheet.create({
   },
   container:{
     flex:1,
-    //alignContent:'center',
     alignItems:'center',
     justifyContent:'center',
     backgroundColor:'#01CBC6'
@@ -101,8 +100,6 @@ const styles = StyleSheet.create({
     borderWidth:3,
     borderRadius:22,
     borderColor:'#000000',
-    // paddingVertical:10,
-    // paddingHorizontal:16,
     padding:10,
     marginTop:20,
     textAlign:'center',
